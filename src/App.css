@@ -1,0 +1,34 @@
+.app-title{
+  text-align: center;
+  margin: 1.5em 0em;
+}
+
+.container{
+  max-width: 80%;
+  margin: 1em auto;
+}
+
+.control{
+  margin: 1em 0;
+  display: flex;
+  justify-content: space-between;
+}
+
+.modal-title{
+  margin: 1.5em 0em;
+  text-align: center;
+}
+
+input[type=text], select {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+}
+
+.employee-header{
+  background-color: blue;
+}
